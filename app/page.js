@@ -18,7 +18,7 @@ export default function Home() {
                 public health
               </h1>
               <p className="font-normal text-gray-500 text-sm md:text-md xl:text-lg mb-10">
-              Hello, I'm Dr. Farouk Renjbal, a professor and public health consultant specializing in Ottawa, Canada.
+              Hello, I&apos;m Dr. Farouk Renjbal, a professor and public health consultant specializing in Ottawa, Canada.
               </p>
               <div class="flex items-center mb-4">
                 <div class="mr-2">
