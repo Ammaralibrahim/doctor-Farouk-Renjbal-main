@@ -148,7 +148,7 @@ export default function Home() {
                     </g>
                   </svg>
                 </div>
-                <div>514-991-9262</div>
+                <div>Arabic-Russian-English.</div>
               </div>
               <div class="flex items-center mb-4">
                 <div class="mr-2">
